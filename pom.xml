@@ -19,7 +19,7 @@
         <!--conf-->
         <seleniumVersion>3.141.59</seleniumVersion>
         <cucumberVersion>4.3.0</cucumberVersion>
-        <jUnitVersion>4.12</jUnitVersion>
+        <jUnitVersion>4.13.1</jUnitVersion>
         <aspectJWeaverVersion>1.8.10</aspectJWeaverVersion>
         <remoteDriver>localDriver</remoteDriver>
         <screenShot>failure</screenShot>
